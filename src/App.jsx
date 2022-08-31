@@ -1,4 +1,4 @@
-import WordCounter from "./components/WordCounter/WordCounter";
+import WordCounter from "./components/WordCounter";
 
 const App = () => {
   return <WordCounter />;
