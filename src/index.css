@@ -12,5 +12,5 @@ body {
   justify-content: center;
   align-items: center;
   background-color: lightgray;
-  font-family: "Poppins";
+  font-family: "Poppins", sans-serif;
 }
